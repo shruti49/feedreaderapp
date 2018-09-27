@@ -1,10 +1,10 @@
-#Project Overview
+# Project Overview
 In an existing project given to me by Udacity for my nanodegree course, using Jasmine to test if the Javascript is working properly.
 
-#How to Run Appilcation
+# How to Run Appilcation
 Download repositrory from here. Then open the index.html file in a browser.
 
-#Tests That Were Implemented
+# Tests That Were Implemented
 1. Tests whether allfeeds have been defined and they are not empty
 2. Tests whether allFeeds have a url and that the url is not empty
 3. Tests whether allFeeds have a name and that the name is not empty
