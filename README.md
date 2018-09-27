@@ -12,3 +12,5 @@ Download repositrory from here. Then open the index.html file in a browser.
 5. Toggles on click event if the menu appears or disappears
 6. Tests if the loadFeed function has at least a single '.entry' within the '.feed' container
 7. Tests to see if the new feed is different from old feed.
+
+Link for the project  - https://shruti49.github.io/feedreaderapp/.
