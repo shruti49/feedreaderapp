@@ -1,7 +1,7 @@
 # Project Overview
 In an existing project given to me by Udacity for my nanodegree course, using Jasmine to test if the Javascript is working properly.
 
-# How to Run Appilcation
+# How to Run Application
 Download repositrory from here. Then open the index.html file in a browser.
 
 # Tests That Were Implemented
